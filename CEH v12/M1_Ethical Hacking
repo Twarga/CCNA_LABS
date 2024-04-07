@@ -1,0 +1,138 @@
+# Module 1 : Introduction to Ethical Hacking (Overview)
+## Introduction to : 
+- Ethical Hackers :
+	- Hired by companies to perform penetration tests 
+- Penetration test : 
+	- Attempt to break into a company's network to find the weak links 
+	
+- Vulnerability assessment 
+	- Test attempts to enumerate all vulnerabilities found in an application or on a system 
+
+- Security test :
+	- Tester analyzes a company's security policy and procedures. 
+	- Reports any vulnerabilities to management. 
+	
+
+## The Role of Security and Penetration Testers
+### Hackers 
+Hackers access computer system or network 
+- Without the authorization of the systems owner 
+	- Considered as breaking the law; can go to prison 
+
+### Crackers 
+- Break into systems to steal or destroy data 
+- THe U.S Department of Justice 
+	- Labels all illegal access to a computer or network systems as hacking 
+	
+### Ethical Hacker 
+- Performs most of the same activities a hacker does 
+	- With the permission of the owner or company 
+	
+### Script Kiddies or packet monkeys 
+- Derogatory terms to refer to younger , inexperienced people 
+- They copy code or use tools createdd by knowledgeable programmers without understanding how they work 
+- Programs or scripts used by experienced penetration testers 
+	- To carry out attacks .
+	- Python , Ruby , Perl or C
+	- Script :
+		- A set of intructions 
+		- Runs in sequence to perform tasks on a computer system
+		
+### Hacktivist 
+- A person who hacks cimputer systems for political or social reasons 
+### Penetration testers 
+- Usually have a laptop computer with multiple OSs and hacking tools 
+- Job requirements for a penetration tester might include :
+	- Perform vulnerability , attack, and penetration assessments 
+		- In Internet, Internat and wireless envirnments 
+	- Perform discovery and scanning 
+		- For open ports and services 
+	- Apply appropriate exploits 
+		- To gain access and expand access as neccessary 
+
+- Participate in activities 
+	- Involving application penetration testing and application source code review 
+- Interact with the client as required throught the engagement 
+- Produce reports documenting discoveries durinf the engagement 
+- Debrief with the client at the conclusion of each engagment 
+- Participate in research and provide recommendations
+	- For continuous improvement 
+- Participate in knowledge sharing 
+- Demonstrate a good understanding of current country, state, and city cyber laws.
+
+
+## Penetration-Testing Methodologies 
+### White box model 
+- The tester is told what network topology and technology the company is using 
+	- May be given a floor plan 
+- Tester is permitted to interview IT personnel and company employees 
+	- Makes the penetration tester's job easier 
+
+### Black box model 
+- Staff is not aware of the test 
+- Tester is not given any diagras or details about the technologies used 
+	- Burden is on the tester to find details using different techniques 
+- Tests security personnel's ability to detect an attack. 
+
+### Gray box model 
+- Hyprid of th white and black box models 
+- Company gives tester only partial information
+	- Example : OSs are used , but not network diagrams 
+	
+
+## Certification Programs for Network Security Personnel 
+- Certification programs 
+	- Available in almost every area of network security 
+- Minimum certification 
+	- CompTIA Security+ certification or have equivalent knowledge 
+		- Prequisite for Security+ certification is Comptia  Network+ level of knowlegde 
+	
+## CompTIA PenTest+ 
+- Advance certification that verfies successful candidates have the knowledge and skills required to :
+	- Plan and scope an assessment 
+	- Understand legeal and compliance requirements 
+	- Perform vulnerability scanning and penetration testing 
+	- Analyze data 
+	- Effectively report and communicate results 
+
+## Offensive Security Certified Professional (OSCP) 
+- OSCP 
+	- An advanced certification that requires students to demonstrate hands-on abilities to earn their certificates 
+	- Covers network and application exploits 
+	- Gives students experience in : 
+		- Developing rudimentary buffer overflows 
+		- Writing scripts to collect and manipulate data 
+		- Trying exploits on vunerable systems 
+
+
+## Certified Ethical Hacker 
+- Developed by the international Council of Electronic COmmerce Consultants (EC-Council) 
+	- The multiple-choice Certified Ethical Hacker (CEH) exam is based on 22 domains the tester must be familiar with 
+	- EC-Council website : https://www.eccouncil.org/
+- Most likely to be placed on a team that conducts penetration tests 
+	- Called a Red team 
+		- Composed of people with varied skills who perform the tests 
+		- Unlikely that one person will perform all tests 
+		
+## Certified Information Systems Security Professional (CISSP)
+- CISSP 
+	- Issued by the International Information Systems Security Certification Consortium (ISC^2)
+	- Not geared toward technical IT professionals 
+	- Tests security-related managerial skills 
+		- Usually more concerned with policies and procedures 
+	- Consists of questions from ten domains 
+## SANS Institute 
+- SysAdmin, Audit, Network , Security (SANS) Institute
+	- Offres training and IT security certifications through Global Information Assurance Certification (GIAC)
+
+## Which Certification Is Best ? 
+- Penetration testers and security testers 
+	- Need technical skills to perform duties effectively
+	- Must also have : 
+		- A good understanding of networks and the role of management in an organization 
+		- Skills in writing and verbal communication 
+		- Desire to continue learning 
+- Danger of certification exams :
+	- Some participants simply memorize terminology 
+		- Don't have a good grasp of subject matter or complex concepts 
+			
